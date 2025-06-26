@@ -227,7 +227,7 @@ class _ObjectDetectionViewState extends State<ObjectDetectionView> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: const Text('YOLOv8 Object Detection')),
+      appBar: AppBar(title: const Text('Deteksi Fraksi Buah')),
       // ... di dalam method build
       body: Stack(
         children: [
